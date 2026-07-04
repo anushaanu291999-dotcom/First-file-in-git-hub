@@ -1,0 +1,63 @@
+pwd
+ls
+ls -l
+ls -ltr
+ls -lt
+ls -a
+ls -ls
+mkdir
+touch
+vi
+cd
+cat
+:set nu
+:set nonu
+:s/op/np/g
+echo
+dd
+redirect >
+uppend >>
+du
+du -sh
+du -h
+du -ah
+df
+head
+tail
+grep
+sed
+awk
+cut
+chmod
+free -g
+uniq
+sort
+tac
+mv
+cp
+umask
+ls f *
+ls * f
+ch sh
+chown
+rm filename
+rm -rf folder name
+ps -ef
+sudo
+find
+kill -9PID
+uname -a
+uname -v
+whoami
+ls -i(inode number)
+ls 0f
+scp
+rsync
+ping
+telnet
+netstart
+top
+uptime
+softlink
+hardlink
+
