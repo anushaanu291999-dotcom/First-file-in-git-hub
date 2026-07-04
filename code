@@ -1,6 +1,6 @@
-pwd
-ls
-ls -l
+pwd present working directory
+ls list of directory
+ls -l long list of directory which include id time month
 ls -ltr
 ls -lt
 ls -a
